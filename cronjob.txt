@@ -1,0 +1,3 @@
+MAILTO=jai_jagani@persistent.co.in
+0 */2 * * * /var/jenkins_backup/backup.sh > /var/jenkins_backup/backup.log
+
